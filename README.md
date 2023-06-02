@@ -1,14 +1,21 @@
-# dsfsfsdf
+# ToDo App
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## Preview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![Design preview for the FAQ accordion card coding challenge](./public/todo02vue.PNG)
 
-## Customize configuration
+## Features
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This project implements the basic features of the ToDo App:
+
+Enter the task
+Select a category
+Mark items as done/not done
+Add/remove item
+VueJS [^VITE v4.3.9]
+
 
 ## Project Setup
 
@@ -28,14 +35,3 @@ npm run dev
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
